@@ -52,6 +52,6 @@ if __name__ == '__main__':
     if answer == 'y':
         print "WAHOO! "
     else:
-        print "that is not a valid response. valid responses are" \
+        print "that is not a valid response. valid responses are " \
                 "{}".format(', '    .join((VALID_RESPONSES)))
 
