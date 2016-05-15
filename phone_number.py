@@ -14,6 +14,8 @@ a random number and basically shift the numbers over by one. For example:
     2345678905
 
     etc, etc
+
+The idea came from reading about people working on building the dumbest way to enter your phone number on a website (you can see it here: http://www.dailydot.com/lol/stupid-phone-number-entry-field-challenge/)
 """
 
 VALID_RESPONSES = ('y', 'n')
